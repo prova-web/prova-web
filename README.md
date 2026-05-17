@@ -17,7 +17,7 @@ I focus on creating clean UI, smooth user experience, and efficient web solution
 
 ## 🧑‍💻 Contact Information
 
-- 📧 Email: prova5.webdev@gmai.com  
+- 📧 Email: prova5.webdev@gmail.com  
 - 📱 Phone: 01756213126  
 
 ---
