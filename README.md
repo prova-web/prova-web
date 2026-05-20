@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Mst. Sumaiya Tabassum Prova
+# 👋 I'm Mst. Sumaiya Tabassum Prova
 
-🚀 Front-End Web Developer | WordPress Developer
+🚀 Front-End Web Developer | WordPress Expert
 
 ---
 
 ## 📌 About Me
 
-I am a passionate Front-End and WordPress Developer who enjoys creating modern, responsive, and user-friendly websites. I focus on clean design, organized code, and smooth user experience.
+I am a passionate Front-End and WordPress Expert who enjoys creating modern, responsive, and user-friendly websites. I focus on clean design, organized code, and smooth user experience.
 
 - 🌐 Responsive Website Development  
 - 💻 Front-End Development & WordPress  
@@ -37,7 +37,7 @@ I am a passionate Front-End and WordPress Developer who enjoys creating modern, 
 
 ---
 
-## 📊 What I Do
+## 📊 Work Areas
 
 - Responsive Website Design  
 - Landing Page Development  
@@ -46,15 +46,6 @@ I am a passionate Front-End and WordPress Developer who enjoys creating modern, 
 - Basic JavaScript Interactivity  
 
 ---
-
-## 📂 Featured Project
-
-### Restaurant Website
-
-A modern and responsive restaurant website built using HTML, CSS, Bootstrap, and JavaScript.
-
-#### 🔗 Live Demo
-https://prova-web.github.io/restaurant-website/index.html
 
 #### 🛠️ Technologies
 - HTML5
@@ -67,7 +58,6 @@ https://prova-web.github.io/restaurant-website/index.html
 ## 📫 Contact
 
 - 📧 Email: prova5.webdev@gmail.com  
-- 📱 Phone: 01756213126  
 
 ---
 
