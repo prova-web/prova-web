@@ -6,66 +6,69 @@
 
 ## 📌 About Me
 
-I am a passionate **Front-End Web Developer** and **WordPress Developer** with experience in building responsive, user-friendly, and modern websites.  
-I focus on creating clean UI, smooth user experience, and efficient web solutions.
+I am a passionate Front-End and WordPress Developer who enjoys creating modern, responsive, and user-friendly websites. I focus on clean design, organized code, and smooth user experience.
 
-- 🎯 Focused on Front-End Development & WordPress
-- 🌐 Passionate about building responsive websites
-- 💡 Always learning new web technologies
+- 🌐 Responsive Website Development  
+- 💻 Front-End Development & WordPress  
+- 🎯 Clean and Modern UI Design  
+- 📚 Continuously Learning New Technologies  
 
 ---
 
-## 🧑‍💻 Contact Information
+## 🛠️ Skills
+
+### Front-End
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+
+### CMS
+- WordPress  
+
+---
+
+## ⚙️ Tools
+
+- VS Code  
+- Git & GitHub  
+- Chrome DevTools  
+- WordPress Dashboard  
+
+---
+
+## 📊 What I Do
+
+- Responsive Website Design  
+- Landing Page Development  
+- WordPress Website Setup  
+- Bootstrap UI Development  
+- Basic JavaScript Interactivity  
+
+---
+
+## 📂 Featured Project
+
+### Restaurant Website
+
+A modern and responsive restaurant website built using HTML, CSS, Bootstrap, and JavaScript.
+
+#### 🔗 Live Demo
+https://prova-web.github.io/restaurant-website/index.html
+
+#### 🛠️ Technologies
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+
+---
+
+## 📫 Contact
 
 - 📧 Email: prova5.webdev@gmail.com  
 - 📱 Phone: 01756213126  
 
 ---
 
-## 🛠️ My Skills
-
-### 💻 Front-End Development
-- HTML5
-- CSS3
-- JavaScript (JS)
-- Bootstrap
-
-### 🌐 CMS
-- WordPress (Theme customization & basic development)
-
----
-
-## ⚙️ Tools & Technologies
-
-- VS Code
-- Git & GitHub
-- Chrome DevTools
-- WordPress Dashboard
-
----
-
-## 📊 What I Can Do
-
-- Responsive Website Design
-- Landing Page Development
-- WordPress Website Setup
-- UI Layout with Bootstrap
-- Basic Front-End Interactivity using JavaScript
-
----
-
-## 🎯 Goals
-
-- Become a Full Stack Web Developer  
-- Build professional-grade web applications  
-- Improve advanced JavaScript & backend skills  
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out for collaboration or projects!
-
----
-
-⭐ *Thank you for visiting my profile!*
+⭐ Thank you for visiting my profile!
