@@ -1,6 +1,6 @@
-# 👋 I'm Mst. Sumaiya Tabassum Prova
+# I'm Mst. Sumaiya Tabassum Prova
 
-🚀 Front-End Web Developer | WordPress Expert
+Front-End Web Developer | WordPress Expert
 
 
 ## 📌 About Me
