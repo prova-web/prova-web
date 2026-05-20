@@ -2,7 +2,6 @@
 
 🚀 Front-End Web Developer | WordPress Expert
 
----
 
 ## 📌 About Me
 
@@ -13,7 +12,6 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 - 🎯 Clean and Modern UI Design  
 - 📚 Continuously Learning New Technologies  
 
----
 
 ## 🛠️ Skills
 
@@ -26,7 +24,6 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 ### CMS
 - WordPress  
 
----
 
 ## ⚙️ Tools
 
@@ -35,7 +32,6 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 - Chrome DevTools  
 - WordPress Dashboard  
 
----
 
 ## 📊 Work Areas
 
@@ -45,7 +41,6 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 - Bootstrap UI Development  
 - Basic JavaScript Interactivity  
 
----
 
 #### 🛠️ Technologies
 - HTML5
@@ -59,6 +54,5 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 
 - 📧 Email: prova5.webdev@gmail.com  
 
----
 
 ⭐ Thank you for visiting my profile!
