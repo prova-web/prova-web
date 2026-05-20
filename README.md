@@ -33,9 +33,12 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 - Bootstrap  
 
 ### CMS
-- WordPress  
+- WordPress
+  <br>
 
-<br>
+
+  
+
 ##  🍀Tools
 
 - VS Code  
@@ -43,8 +46,8 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 - Chrome DevTools  
 - WordPress Dashboard  
 
-<br>
-##  Work Areas
+
+###  Work Areas
 
 - Responsive Website Design  
 - Landing Page Development  
@@ -53,13 +56,17 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 - Basic JavaScript Interactivity  
 
 <br>
-####  Technologies
+---
+
+
+##  🍀Tecnologies
 - HTML5
 - CSS3
 - Bootstrap 5
 - JavaScript
 <br>
 ---
+
 
 ##  🍀Contact
 
