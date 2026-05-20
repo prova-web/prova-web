@@ -1,11 +1,12 @@
 # I'm Mst. Sumaiya Tabassum Prova
 
-Front-End Web Developer | WordPress Expert
+- I'm a Front-End Web Developer 
+- I'm a WordPress Expert
 
 prova5.webdev@gmail.com
 
 
-##  About Me
+## 🚩 About Me
 
 I am a passionate Front-End and WordPress Expert who enjoys creating modern, responsive, and user-friendly websites. I focus on clean design, organized code, and smooth user experience.
 
@@ -15,7 +16,7 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 -  Continuously Learning New Technologies  
 
 
-##  Skills
+##  🚩Skills
 
 ### Front-End
 - HTML5  
@@ -27,7 +28,7 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 - WordPress  
 
 
-##  Tools
+##  🚩Tools
 
 - VS Code  
 - Git & GitHub  
@@ -52,7 +53,7 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 
 ---
 
-##  Contact
+##  🚩Contact
 
 -  Email: prova5.webdev@gmail.com  
 
