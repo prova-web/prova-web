@@ -2,7 +2,7 @@
 
 Front-End Web Developer | WordPress Expert
 
--prova5.webdev@gmail.com
+prova5.webdev@gmail.com
 
 
 ##  About Me
