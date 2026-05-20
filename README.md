@@ -34,38 +34,37 @@ I am a passionate Front-End and WordPress Expert who enjoys creating modern, res
 
 ### CMS
 - WordPress
-  <br>
+<br>
 
 
-  
 
 ##  🍀Tools
-
 - VS Code  
 - Git & GitHub  
 - Chrome DevTools  
 - WordPress Dashboard  
+<br>
 
 
-###  Work Areas
+
+##  🍀Work Area
 
 - Responsive Website Design  
 - Landing Page Development  
 - WordPress Website Setup  
 - Bootstrap UI Development  
 - Basic JavaScript Interactivity  
-
 <br>
----
 
 
-##  🍀Tecnologies
+
+##  🍀Tecnology
 - HTML5
 - CSS3
 - Bootstrap 5
 - JavaScript
 <br>
----
+
 
 
 ##  🍀Contact
